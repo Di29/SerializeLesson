@@ -1,0 +1,10 @@
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\bin\Debug\SerializationLesson.exe.config
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\bin\Debug\SerializationLesson.exe
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\bin\Debug\SerializationLesson.pdb
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\obj\Debug\SerializationLesson.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\obj\Debug\SerializationLesson.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\obj\Debug\SerializationLesson.exe
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\obj\Debug\SerializationLesson.pdb
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\УринбасаровД\source\repos\SerializationLesson\SerializationLesson\obj\Debug\SerializationLesson.csproj.CopyComplete
